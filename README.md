@@ -1,9 +1,18 @@
 # ProyectoDjango
 Proyecto para la materia de Django
 
-desarrollador por:
-Santiago Leon.
-Santiago Lozano.
-Pedro Clemente.
-Alejandro Díaz.
-Juan Delgadillo.
+Nombres de los integrantes:
+- Santiago Leon.
+- Santiago Lozano.
+- Pedro Clemente.
+- Alejandro Díaz.
+- Juan Delgadillo.
+
+Nombre del Proyecto: Gestion Academica
+
+Nombres de los modulos (aplicaciones):
+- Asistencias
+- Inscripciones
+- Materias
+- Notas
+- Usuarios
