@@ -10,3 +10,5 @@ class Asistencia(models.Model):
 
     def __str__(self):
         return f"ID: {self.id} - Fecha: {self.fecha} - Confirmacion: {self.confirmacion} - Inscripcion: {self.id_inscripcion}"
+
+
